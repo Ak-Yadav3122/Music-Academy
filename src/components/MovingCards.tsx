@@ -5,7 +5,7 @@ import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 const MusicSchoolCards = [
   {
     quote:
-      'Joining the music school transformed my understanding of music and helped me to truly discover my own sound. The instructors are world-class!',
+      'Joining the Music school transformed my understanding of music and helped me to truly discover my own sound. The instructors are world-class!',
     name: 'Alex Johnson',
     title: 'Guitar Student',
   },
