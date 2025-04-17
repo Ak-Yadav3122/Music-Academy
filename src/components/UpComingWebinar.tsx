@@ -7,7 +7,7 @@ import { Button } from './ui/moving-border';
 const UpComingWebinar = () => {
   const featuredWebinars = [
     {
-      title: 'Understanding Music Theory',
+      title: 'Understande Music Theory',
       description:
         'Dive deep into the fundamentals of music theory and enhance your musical skills.',
       slug: 'understanding-music-theory',
@@ -16,7 +16,7 @@ const UpComingWebinar = () => {
     {
       title: 'The Art of Songwriting',
       description:
-        'Learn the craft of songwriting from experienced musicians and songwriters.',
+        'Learn the craft of song-writing from experienced musicians and song-writers.',
       slug: 'the-art-of-songwriting',
       isFeatured: true,
     },
