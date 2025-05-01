@@ -74,8 +74,8 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
           <p>Greater Noida, India</p>
           <p>Delta-2, (201310)</p>
-          <p>Email: aichchhik12@gmail.com</p>
-          <p>Phone: 8576834748</p>
+          <p>Email: aichchhikyadav@gmail.com</p>
+          <p>Phone: 8931056744</p>
         </div>
         </div>
         <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
