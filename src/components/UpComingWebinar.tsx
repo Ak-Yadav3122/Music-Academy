@@ -76,7 +76,7 @@ const UpComingWebinar = () => {
                borderRadius="1.75rem"
               className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
             >
-              View All webinars
+              View All Webinars
             </Button>
           </Link>
         </div>
